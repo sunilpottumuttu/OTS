@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS.API", "OTS.API\OTS.API.csproj", "{2FA06DD9-E84D-494E-A8F0-9C843B8D7F89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS.Data", "..\OTS.Data\OTS.Data.csproj", "{F7361354-431C-47F9-BC72-4F3EBEE456CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS.DomainModel", "..\OTS.DomainModel\OTS.DomainModel.csproj", "{2E8D94A1-3BD0-44F8-ABA8-BB7584FC2B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA06DD9-E84D-494E-A8F0-9C843B8D7F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA06DD9-E84D-494E-A8F0-9C843B8D7F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA06DD9-E84D-494E-A8F0-9C843B8D7F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA06DD9-E84D-494E-A8F0-9C843B8D7F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7361354-431C-47F9-BC72-4F3EBEE456CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7361354-431C-47F9-BC72-4F3EBEE456CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7361354-431C-47F9-BC72-4F3EBEE456CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7361354-431C-47F9-BC72-4F3EBEE456CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E8D94A1-3BD0-44F8-ABA8-BB7584FC2B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8D94A1-3BD0-44F8-ABA8-BB7584FC2B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8D94A1-3BD0-44F8-ABA8-BB7584FC2B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8D94A1-3BD0-44F8-ABA8-BB7584FC2B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
